@@ -12,3 +12,5 @@ This folder is reserved for the first public Shopify package release.
 ## Status
 
 In preparation. WordPress release is already available under `wordpress/v0.1.0/`.
+
+See `VERSION_SUMMARY.md` for release-summary format.

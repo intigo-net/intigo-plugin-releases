@@ -14,12 +14,11 @@ Each platform has its own folder, then versioned subfolders:
 wordpress/
   v0.1.0/
     intigo-wordpress-plugin-v0.1.0.zip
-    RELEASE_NOTES.md
-    SHA256SUMS.txt
+    VERSION_SUMMARY.md
 
 shopify/
   v0.1.0/
-    README.md
+    VERSION_SUMMARY.md
 
 systems/
   template/
@@ -45,8 +44,8 @@ systems/
 Each release includes:
 
 - plugin archive (`.zip`)
-- checksum file (`SHA256SUMS.txt`)
-- release notes with installation and compatibility details
+- version summary (`VERSION_SUMMARY.md`) describing what changed in that version
+- optional checksum file (`SHA256SUMS.txt`) when provided for integrity workflows
 
 ## Support
 

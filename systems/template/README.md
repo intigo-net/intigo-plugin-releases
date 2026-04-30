@@ -6,8 +6,8 @@ Use this structure for future platforms:
 <system-name>/
   vX.Y.Z/
     <package-file>
-    RELEASE_NOTES.md
-    SHA256SUMS.txt
+    VERSION_SUMMARY.md
+    SHA256SUMS.txt (optional)
     INSTALL.md
 ```
 
