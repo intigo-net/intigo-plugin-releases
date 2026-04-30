@@ -19,7 +19,7 @@ Initial public release of the Intigo WooCommerce plugin package.
 
 ### Installation
 
-1. Download `intigo-wordpress-plugin-v0.1.0.zip` from release assets.
+1. Download `intigo-wordpress-plugin-v0.1.0.zip` from this folder (or from the matching GitHub Release assets).
 2. In WordPress admin: **Plugins -> Add New -> Upload Plugin**.
 3. Upload the zip, install, activate.
 4. Open Intigo settings and configure API key + environment mode.
