@@ -1,0 +1,9 @@
+INTIGO SHOPIFY INTEGRATION VALIDATION
+Version: v0.1.0
+
+Artifact:
+TBD (to be added when first Shopify package is published)
+
+Validation:
+When artifact is published, include its SHA256 hash here and verify with:
+sha256sum <artifact-file>

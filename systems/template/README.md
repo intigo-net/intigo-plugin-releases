@@ -7,6 +7,7 @@ Use this structure for future platforms:
   vX.Y.Z/
     <package-file>
     VERSION_SUMMARY.md
+    VALIDATION.txt
     SHA256SUMS.txt (optional)
     INSTALL.md
 ```

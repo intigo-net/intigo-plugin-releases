@@ -15,10 +15,12 @@ wordpress/
   v0.1.0/
     intigo-wordpress-plugin-v0.1.0.zip
     VERSION_SUMMARY.md
+    VALIDATION.txt
 
 shopify/
   v0.1.0/
     VERSION_SUMMARY.md
+    VALIDATION.txt
 
 systems/
   template/
@@ -45,6 +47,7 @@ Each release includes:
 
 - plugin archive (`.zip`)
 - version summary (`VERSION_SUMMARY.md`) describing what changed in that version
+- validation guide (`VALIDATION.txt`) with checksum and verification steps
 - optional checksum file (`SHA256SUMS.txt`) when provided for integrity workflows
 
 ## Support
