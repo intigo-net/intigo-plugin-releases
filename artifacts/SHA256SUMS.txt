@@ -1,0 +1,1 @@
+955c91d915dc705fbe662eaba7c7e2eacf81a672b118dec84b561f67fd52580d  artifacts/intigo-wordpress-plugin-v0.1.0.zip
