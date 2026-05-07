@@ -16,6 +16,10 @@ wordpress/
     intigo-wordpress-plugin-v0.1.0.zip
     VERSION_SUMMARY.md
     VALIDATION.txt
+  v0.2.1/
+    wordpress-intigo-parcels-v0.2.1.zip
+    VERSION_SUMMARY.md
+    VALIDATION.txt
 
 shopify/
   v0.1.0/
@@ -29,13 +33,13 @@ systems/
 
 ## Current Packages
 
-- WordPress / WooCommerce plugin package (`wordpress/v0.1.0`)
+- WordPress / WooCommerce plugin package — **latest:** `wordpress/v0.2.1`
 - Shopify release track initialized (`shopify/v0.1.0`, placeholder for next package)
 
 ## WordPress Install (Client)
 
-1. Open `wordpress/v0.1.0/`.
-2. Download `intigo-wordpress-plugin-v0.1.0.zip`.
+1. Open `wordpress/v0.2.1/` (latest).
+2. Download `wordpress-intigo-parcels-v0.2.1.zip`.
 3. In WordPress admin, go to **Plugins -> Add New -> Upload Plugin**.
 4. Upload the zip, install, and activate.
 5. Open **Intigo -> Settings**, add API key, select Sandbox/Production mode.
