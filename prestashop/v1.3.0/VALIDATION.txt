@@ -1,0 +1,14 @@
+INTIGO PRESTASHOP PLUGIN VALIDATION
+Version: v1.3.0
+Artifact: prestashop-intigo-parcels-v1.3.0.zip
+
+SHA256:
+fe7bf3b25d7f3426d2adef1be5f9d8b2bfde60cc63a129e1c2e0647acbf7ccdd
+
+How to validate (Linux/macOS):
+1) Run:
+   sha256sum prestashop-intigo-parcels-v1.3.0.zip
+2) Compare output hash with the SHA256 value above.
+3) If hash matches exactly, artifact integrity is verified.
+
+Tested on: PrestaShop 1.7.8.11 / PHP 7.4.33 (client target), PrestaShop 8.1, PrestaShop 9.1.3.
