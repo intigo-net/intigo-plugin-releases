@@ -1,0 +1,6 @@
+INTIGO PRESTASHOP PLUGIN VALIDATION
+Version: v1.3.13
+Artifact: prestashop-intigo-parcels-v1.3.13.zip
+
+SHA256:
+eb87ba28c532135159f8d1d455e58637a62c465271279f7c96ced832f6acafe1
