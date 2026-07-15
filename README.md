@@ -44,7 +44,7 @@ systems/
 ## Current Packages
 
 - WordPress / WooCommerce plugin package — **latest:** `wordpress/v0.2.1`
-- PrestaShop plugin package — **latest:** `prestashop/v1.3.17`
+- PrestaShop plugin package — **latest:** `prestashop/v1.3.18`
 - Shopify release track initialized (`shopify/v0.1.0`, placeholder for next package)
 
 ## WordPress Install (Client)
@@ -58,8 +58,8 @@ systems/
 
 ## PrestaShop Install (Client)
 
-1. Open `prestashop/v1.3.17/` (latest).
-2. Download `prestashop-intigo-parcels-v1.3.17.zip`.
+1. Open `prestashop/v1.3.18/` (latest).
+2. Download `prestashop-intigo-parcels-v1.3.18.zip`.
 3. In PrestaShop back-office, go to **Modules -> Module Manager -> Upload a module** and drag the zip.
 4. Configure -> enter your Intigo API key (sandbox or production) -> Test connection.
 5. **Sell -> Carriers** -> confirm **Intigo Delivery** is enabled and assign it to your zones / price ranges.
