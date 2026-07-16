@@ -1,0 +1,2 @@
+prestashop-intigo-parcels-v1.3.20.zip
+SHA256: 749bf593283d696201304d4af46795e99036faac1867b0ab1a636148e33cdc93
