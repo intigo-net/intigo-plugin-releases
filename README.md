@@ -6,7 +6,7 @@ Public distribution repository for client-ready Intigo plugin packages.
 > **Latest working versions**
 >
 > - **PrestaShop** — `v1.3.30` → [`prestashop/v1.3.30/`](prestashop/v1.3.30/)
-> - **WordPress / WooCommerce** — `v0.4.1` → [`wordpress/v0.4.1/`](wordpress/v0.4.1/)
+> - **WordPress / WooCommerce** — `v0.4.2` → [`wordpress/v0.4.2/`](wordpress/v0.4.2/)
 <!-- LATEST:END -->
 
 ## Purpose
@@ -50,14 +50,14 @@ systems/
 
 ## Current Packages
 
-- WordPress / WooCommerce plugin package — **latest:** `wordpress/v0.4.1`
+- WordPress / WooCommerce plugin package — **latest:** `wordpress/v0.4.2`
 - PrestaShop plugin package — **latest:** `prestashop/v1.3.19`
 - Shopify release track initialized (`shopify/v0.1.0`, placeholder for next package)
 
 ## WordPress Install (Client)
 
-1. Open `wordpress/v0.4.1/` (latest).
-2. Download `wordpress-intigo-parcels-v0.4.1.zip`.
+1. Open `wordpress/v0.4.2/` (latest).
+2. Download `wordpress-intigo-parcels-v0.4.2.zip`.
 3. In WordPress admin, go to **Plugins -> Add New -> Upload Plugin**.
 4. Upload the zip, install, and activate.
 5. Open **Intigo -> Settings**, add API key, select Sandbox/Production mode.
