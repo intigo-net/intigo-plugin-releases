@@ -1,0 +1,12 @@
+INTIGO WORDPRESS PLUGIN VALIDATION
+Version: v0.5.2
+Artifact: wordpress-intigo-parcels-v0.5.2.zip
+
+SHA256:
+8eb90b3b8e679c9e624a1f248bfbe648219a1814c5185109aa399bc72b3a5658
+
+How to validate (Linux/macOS):
+1) Run:
+   sha256sum wordpress-intigo-parcels-v0.5.2.zip
+2) Compare output hash with the SHA256 value above.
+3) If hash matches exactly, artifact integrity is verified.
