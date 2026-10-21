@@ -6,7 +6,7 @@ Public distribution repository for client-ready Intigo plugin packages.
 > **Latest working versions**
 >
 > - **PrestaShop** — `v1.3.32` → [`prestashop/v1.3.32/`](prestashop/v1.3.32/)
-> - **WordPress / WooCommerce** — `v0.5.0` → [`wordpress/v0.5.0/`](wordpress/v0.5.0/)
+> - **WordPress / WooCommerce** — `v0.5.1` → [`wordpress/v0.5.1/`](wordpress/v0.5.1/)
 <!-- LATEST:END -->
 
 ## Purpose
